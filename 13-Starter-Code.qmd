@@ -1,5 +1,5 @@
 ---
-title: "15-Starter-Code"
+title: "13-Starter-Code"
 format: docx
 editor: visual
 ---
@@ -310,7 +310,7 @@ wf_fit_03 |>
 
 *Artwork by @allison_horst*
 
-## Exercise 14
+## Exercise 12
 
 We'll be using the roomba survey data for this exercise. Roomba has asked us to train a model to classify customers into two segments, one that combines `own` and `shopping`, and one for `considering`. Your task is to compare the performance of logistic regression and a decision tree to find the best model for the client.
 

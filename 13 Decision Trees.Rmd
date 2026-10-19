@@ -455,7 +455,7 @@ wf_fit_03 |>
 
 We have reused the held-out data while comparing predictors and tree settings. Once those results guide our choices, the data are serving as **validation data**, not an untouched final test.
 
-Lecture 15 will use cross-validation within the training set for these comparisons and reserve the test set for the final assessment.
+Lecture 14 will use cross-validation within the training set for these comparisons and reserve the test set for the final assessment.
 
 The goal is to learn repeatable patterns, not to win on one particular split.
 
@@ -490,7 +490,7 @@ As we question explanations and evaluate competing models, how can we challenge 
 
 *Artwork by @allison_horst*
 
-## Exercise 14
+## Exercise 12
 
 We'll be using the roomba survey data for this exercise. Roomba has asked us to train a model to classify customers into two segments, one that combines `own` and `shopping`, and one for `considering`. Your task is to compare the performance of logistic regression and a decision tree to find the best model for the client.
 
